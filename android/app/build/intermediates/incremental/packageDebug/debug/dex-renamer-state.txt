@@ -1,0 +1,4 @@
+#Mon Jun 03 10:29:42 CST 2019
+base.0=C\:\\Users\\60186\\Desktop\\react-native-picker-master\\example\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
